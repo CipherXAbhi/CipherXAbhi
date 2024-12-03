@@ -14,7 +14,8 @@
         height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
         height="150" alt="languages graph" />
-    <img align="right" height="150" src="https://media.tenor.com/aJ79h53uS8QAAAAi/anonalien.gif" />
+    <img  height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN2dHg1Y2kwODV5N2QyZzIwaDdjZDlzNW1iYnY5M3Q1MnVmdzRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j6xRdO7moPh2cgGMHN/giphy.gif"/>
+    
 </div>
 
 
