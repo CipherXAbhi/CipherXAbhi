@@ -10,7 +10,6 @@
 ## 🛡️ Cybersecurity Skills
 
 ### 🔒 Penetration Testing
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white) 
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23E9573F.svg?style=for-the-badge&logo=metasploit&logoColor=white) 
 ![Nmap](https://img.shields.io/badge/Nmap-%2300599C.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ### 🌐 Web Application Security
